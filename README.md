@@ -1,3 +1,6 @@
-# Digital-Clock
+# Digital-Clock-Samples
 
-**This is simple JavaScript digital clock.** 
+### 1.Normal digital clock
+
+### 2.Modified digital clock
+ Modified using css styles.
